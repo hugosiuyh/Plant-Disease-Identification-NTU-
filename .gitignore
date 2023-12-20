@@ -1,0 +1,6 @@
+# Ignore build directories
+/myenv
+/detectron2
+/__pycache__
+
+*.pth
